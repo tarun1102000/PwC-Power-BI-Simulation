@@ -28,7 +28,7 @@ The PwC Power BI Virtual Case Experience is designed to enhance proficiency in P
 - Average speed of answer
 - Agent performance metrics
 - Call distribution over time
-- 
+  
 ### Task 2: Customer Retention
 
 **Objective:** Analyze customer demographics and behaviors to identify factors influencing customer retention and churn. Create visualizations to support strategic decision-making.
