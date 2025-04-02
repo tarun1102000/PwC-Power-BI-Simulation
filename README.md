@@ -20,48 +20,48 @@ The PwC Power BI Virtual Case Experience is designed to enhance proficiency in P
 
 ### Task 1: Call Centre Trends
 
-**Objective:** Develop a Power BI dashboard to visualize key performance indicators (KPIs) related to call centre operations, focusing on customer and agent behaviors.
+**Objective:** Develop a Power BI dashboard to visualize key performance indicators (KPIs) related to call centre operations, focusing on customer and agent behaviors.
 
 **Key Features:**
 
-- Total calls handled and abandoned
-- Average speed of answer
-- Agent performance metrics
-- Call distribution over time
+- Total calls handled and abandoned
+- Average speed of answer
+- Agent performance metrics
+- Call distribution over time
   
 ### Task 2: Customer Retention
 
-**Objective:** Analyze customer demographics and behaviors to identify factors influencing customer retention and churn. Create visualizations to support strategic decision-making.
+**Objective:** Analyze customer demographics and behaviors to identify factors influencing customer retention and churn. Create visualizations to support strategic decision-making.
 
 **Key Features:**
 
-- Customer segmentation
-- Churn rate analysis
-- Retention trends over time
-- Predictive insights for at-risk customers
+- Customer segmentation
+- Churn rate analysis
+- Retention trends over time
+- Predictive insights for at-risk customers
 
 ### Task 3: Diversity & Inclusion
 
-**Objective:** Create visualizations to assess and present data on gender balance within the company's executive management, supporting diversity and inclusion initiatives.
+**Objective:** Create visualizations to assess and present data on gender balance within the company's executive management, supporting diversity and inclusion initiatives.
 
 **Key Features:**
 
-- Gender distribution across departments
-- Promotion rates by gender
-- Hiring trends and turnover rates
-- Performance ratings by gender
+- Gender distribution across departments
+- Promotion rates by gender
+- Hiring trends and turnover rates
+- Performance ratings by gender
 
 **Files:**
 
-- `Diversity & Inclusion.pbix`: Power BI file containing the dashboard.
+- `Diversity & Inclusion.pbix`: Power BI file containing the dashboard.
 
 ## Getting Started
 
 To explore the dashboards:
 
-1. **Install Power BI Desktop:** Download and install from the [official Microsoft Power BI website](https://powerbi.microsoft.com/desktop/).
-2. **Clone the Repository:** Use `git clone` to download the repository to your local machine.
-3. **Open the `.pbix` Files:** Launch Power BI Desktop and open the desired `.pbix` file to view and interact with the dashboard.
+1. **Install Power BI Desktop:** Download and install from the [official Microsoft Power BI website](https://powerbi.microsoft.com/desktop/).
+2. **Clone the Repository:** Use `git clone` to download the repository to your local machine.
+3. **Open the `.pbix` Files:** Launch Power BI Desktop and open the desired `.pbix` file to view and interact with the dashboard.
 
 ## Resources
 
